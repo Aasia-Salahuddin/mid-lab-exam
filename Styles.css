@@ -2947,3 +2947,9 @@
     max-width: 100%;
     height: auto;
 }
+.center-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
